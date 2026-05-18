@@ -35,6 +35,7 @@ I specialize in developing production-grade AI systems, multi-agent architecture
 
 ### Backend Development
 - FastAPI
+- Django 
 - Python
 - REST APIs
 - Async Systems
@@ -70,7 +71,7 @@ Currently building:
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,mongodb,git,github,linux,aws" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres,redis,mongodb,git,github,linux,aws" />
 
 </p>
 
@@ -90,8 +91,8 @@ Currently building:
 
 # 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- GitHub: https://github.com/OsamaAhmed786
+- LinkedIn: https://www.linkedin.com/in/osama-ahmed-59685721b/
 
 ---
 
